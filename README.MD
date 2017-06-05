@@ -1,0 +1,1 @@
+This is Weshutch's first git project
